@@ -1,6 +1,6 @@
 # Project 1 — Welding Defect Object Detection (YOLOv8)
 
-**Author:** Shilpa Golla  
+**Author:** Divi Teja Dimmiti
 **Course:** Representation Learning: From Neural Networks to Transformers  
 **Project:** Project 1 – Welding Defect Object Detection  
 
@@ -55,8 +55,6 @@ The Welding Defect Dataset/
 
 
 ```text
-Project1_Shilpa/
-│
 ├── notebooks/
 │   ├── train.ipynb
 │   ├── evaluate.ipynb
